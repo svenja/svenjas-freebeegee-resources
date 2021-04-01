@@ -5,4 +5,4 @@ Svenjas resources for the open source virtual gaming tabletop software [FreeBeeG
 
 Copyright 2021 Svenja Schröder.
 
-Svenjas FreeBeeGee resources are released under the [GNU General Public License 3](LICENSE.md).
+Svenjas FreeBeeGee resources are released under the [GNU AGPL-3.0](LICENSE.md).
