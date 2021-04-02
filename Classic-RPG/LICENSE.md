@@ -1,0 +1,1 @@
+The **Classic RPG** game template is released under the terms of the AGPL-3.0. 
