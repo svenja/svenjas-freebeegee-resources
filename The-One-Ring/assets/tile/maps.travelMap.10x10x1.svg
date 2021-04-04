@@ -15,7 +15,7 @@
    version="1.1"
    id="svg8"
    inkscape:version="1.0.2 (e86c8708, 2021-01-15)"
-   sodipodi:docname="travelMap.svg">
+   sodipodi:docname="maps.travelMap.10x10x1.svg">
   <defs
      id="defs2">
     <pattern
@@ -56,15 +56,15 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.59053451"
-     inkscape:cx="467.49896"
-     inkscape:cy="438.29922"
+     inkscape:zoom="0.63213272"
+     inkscape:cx="415.86685"
+     inkscape:cy="505.65601"
      inkscape:document-units="mm"
      inkscape:current-layer="layer2"
      inkscape:document-rotation="0"
      showgrid="true"
      units="in"
-     inkscape:window-width="1316"
+     inkscape:window-width="1440"
      inkscape:window-height="855"
      inkscape:window-x="0"
      inkscape:window-y="23"
@@ -121,18 +121,6 @@
        xml:space="preserve"
        id="text1183"
        style="font-style:normal;font-weight:normal;font-size:10.58329999999999949px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect1185);fill:#000000;fill-opacity:1;stroke:none;" />
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:14.1111px;line-height:1.25;font-family:sans-serif;fill:#999999;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="36.000942"
-       y="-33.104362"
-       id="text855-8-3"
-       transform="rotate(89.528788)"><tspan
-         sodipodi:role="line"
-         id="tspan853-1-9"
-         x="36.000942"
-         y="-33.104362"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.1111px;font-family:'OXSMER+Tolkienesque';-inkscape-font-specification:'OXSMER+Tolkienesque';fill:#999999;stroke-width:0.264583">1 - 3</tspan></text>
     <g
        id="g1132"
        transform="matrix(0.00133806,1.2130389,-1.1812602,0.00137406,112.66785,7.8527096)">
@@ -477,42 +465,6 @@
     </g>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:14.1111px;line-height:1.25;font-family:sans-serif;fill:#999999;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="85.037811"
-       y="-32.697701"
-       id="text855-8-3-2"
-       transform="rotate(89.528788)"><tspan
-         sodipodi:role="line"
-         id="tspan853-1-9-07"
-         x="85.037811"
-         y="-32.697701"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.1111px;font-family:'OXSMER+Tolkienesque';-inkscape-font-specification:'OXSMER+Tolkienesque';fill:#999999;stroke-width:0.264583">4 - 5</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:14.1111px;line-height:1.25;font-family:sans-serif;fill:#999999;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="135.5419"
-       y="-32.564117"
-       id="text855-8-3-2-6"
-       transform="rotate(89.528788)"><tspan
-         sodipodi:role="line"
-         id="tspan853-1-9-07-2"
-         x="135.5419"
-         y="-32.564117"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.1111px;font-family:'OXSMER+Tolkienesque';-inkscape-font-specification:'OXSMER+Tolkienesque';fill:#999999;stroke-width:0.264583">6 - 7</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:14.1111px;line-height:1.25;font-family:sans-serif;fill:#999999;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="186.60495"
-       y="-31.779392"
-       id="text855-8-3-2-6-5"
-       transform="rotate(89.528788)"><tspan
-         sodipodi:role="line"
-         id="tspan853-1-9-07-2-2"
-         x="186.60495"
-         y="-31.779392"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.1111px;font-family:'OXSMER+Tolkienesque';-inkscape-font-specification:'OXSMER+Tolkienesque';fill:#999999;stroke-width:0.264583">8 - 9</tspan></text>
-    <text
-       xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:7.76111px;line-height:1.25;font-family:sans-serif;fill:#999999;fill-opacity:1;stroke:none;stroke-width:0.264583"
        x="189.1908"
        y="-128.14261"
@@ -547,54 +499,6 @@
          x="-248.14337"
          y="244.71353"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.87778px;font-family:'OXSMER+Tolkienesque';-inkscape-font-specification:'OXSMER+Tolkienesque';stroke-width:0.264583">Fatigue Tests:</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:14.1111px;line-height:1.25;font-family:sans-serif;fill:#999999;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="-68.493713"
-       y="219.94987"
-       id="text855-8-3-4"
-       transform="rotate(-90.604572)"><tspan
-         sodipodi:role="line"
-         id="tspan853-1-9-1"
-         x="-68.493713"
-         y="219.94987"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.1111px;font-family:'OXSMER+Tolkienesque';-inkscape-font-specification:'OXSMER+Tolkienesque';fill:#999999;stroke-width:0.264583">1 - 3</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:14.1111px;line-height:1.25;font-family:sans-serif;fill:#999999;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="-119.73634"
-       y="219.41348"
-       id="text855-8-3-2-8"
-       transform="rotate(-90.604572)"><tspan
-         sodipodi:role="line"
-         id="tspan853-1-9-07-5"
-         x="-119.73634"
-         y="219.41348"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.1111px;font-family:'OXSMER+Tolkienesque';-inkscape-font-specification:'OXSMER+Tolkienesque';fill:#999999;stroke-width:0.264583">4 - 5</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:14.1111px;line-height:1.25;font-family:sans-serif;fill:#999999;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="-171.66693"
-       y="218.6127"
-       id="text855-8-3-2-6-8"
-       transform="rotate(-90.604572)"><tspan
-         sodipodi:role="line"
-         id="tspan853-1-9-07-2-9"
-         x="-171.66693"
-         y="218.6127"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.1111px;font-family:'OXSMER+Tolkienesque';-inkscape-font-specification:'OXSMER+Tolkienesque';fill:#999999;stroke-width:0.264583">6 - 7</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:14.1111px;line-height:1.25;font-family:sans-serif;fill:#999999;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="-221.24609"
-       y="218.42627"
-       id="text855-8-3-2-6-5-9"
-       transform="rotate(-90.604572)"><tspan
-         sodipodi:role="line"
-         id="tspan853-1-9-07-2-2-9"
-         x="-221.24609"
-         y="218.42627"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.1111px;font-family:'OXSMER+Tolkienesque';-inkscape-font-specification:'OXSMER+Tolkienesque';fill:#999999;stroke-width:0.264583">8 - 9</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:7.76111px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
@@ -710,137 +614,165 @@
          d="m 292.34539,87.26773 c -0.002,-0.13106 -0.0783,-1.07326 -0.0874,-1.08229 -0.006,-0.006 -0.22523,-0.0286 -0.48696,-0.0501 -0.44449,-0.0364 -0.4917,-0.0434 -0.71583,-0.10641 -0.3644,-0.10236 -0.57716,-0.22855 -1.16457,-0.69073 l -0.4607,-0.36249 -0.34576,-0.44255 -0.34576,-0.44255 v -0.11388 -0.11388 h 0.0824 c 0.0806,0 0.0875,-0.004 0.33107,-0.20162 0.21701,-0.17591 0.28828,-0.22235 0.55891,-0.3642 0.1706,-0.0894 0.47401,-0.23415 0.67425,-0.32162 0.30287,-0.1323 0.41553,-0.17229 0.67021,-0.23789 0.32228,-0.083 0.49828,-0.10662 0.93499,-0.12543 0.1924,-0.008 0.36408,0.001 1.01262,0.0577 0.42952,0.0372 0.79628,0.0677 0.81502,0.0677 0.0325,0 0.0341,0.009 0.0341,0.19858 v 0.19858 h -0.43497 -0.43496 l -0.0843,0.0869 -0.0843,0.0869 -0.0776,0.99041 c -0.0427,0.54473 -0.0741,0.9939 -0.0699,0.99815 0.004,0.004 0.14971,-0.0232 0.32323,-0.061 l 0.3155,-0.0688 0.32641,-0.17364 c 0.28641,-0.15235 0.36282,-0.20237 0.62344,-0.4081 0.29206,-0.23055 0.30072,-0.23923 0.51763,-0.51856 0.20944,-0.2697 0.22199,-0.29018 0.24793,-0.4042 0.0268,-0.11777 0.0229,-0.18107 -0.0203,-0.33358 -0.007,-0.0261 0.007,-0.029 0.14383,-0.029 h 0.15205 l 0.28727,0.16134 0.28726,0.16135 3.1e-4,0.0786 3.1e-4,0.0786 -0.12825,7e-4 -0.12825,7e-4 -0.33924,0.42402 c -0.33648,0.42056 -0.34262,0.42704 -0.75296,0.79382 -0.4038,0.36093 -0.42433,0.37658 -0.85689,0.65322 l -0.44318,0.28342 -0.27548,0.0806 c -0.15151,0.0444 -0.27875,0.0839 -0.28275,0.0879 -0.005,0.005 -0.15928,1.10036 -0.1685,1.19627 -2.5e-4,0.002 -0.0339,0.004 -0.0749,0.004 -0.066,0 -0.0745,-0.004 -0.0751,-0.0372 z m -0.0823,-2.06029 c -1.2e-4,-0.0523 -0.0149,-0.50473 -0.0329,-1.00532 -0.018,-0.50059 -0.0328,-0.96416 -0.0329,-1.03014 L 292.1971,83.052 h -0.41229 -0.4123 l -0.22726,0.0831 c -0.12499,0.0457 -0.33876,0.14014 -0.47505,0.20984 -0.24687,0.12626 -0.24825,0.12728 -0.36991,0.27427 -0.0672,0.0811 -0.12211,0.1588 -0.12211,0.17258 0,0.0138 0.0163,0.0871 0.0362,0.16297 l 0.0362,0.13793 0.3734,0.37221 0.3734,0.3722 0.29787,0.15727 c 0.29582,0.15619 0.30005,0.15779 0.6123,0.23144 0.17293,0.0408 0.32373,0.0747 0.33511,0.0755 0.0143,9e-4 0.0206,-0.028 0.0205,-0.0939 z m -4.62804,0.0258 c -0.0363,-0.0379 -0.0921,-0.15116 -0.18061,-0.36729 -0.122,-0.29778 -0.13607,-0.32319 -0.29785,-0.53782 l -0.16981,-0.22528 -0.43564,-0.19997 -0.43564,-0.19996 v -0.0873 -0.0873 l 0.75131,-0.63215 0.75131,-0.63216 0.25815,0.0377 c 0.14198,0.0207 0.26746,0.0379 0.27884,0.0382 0.0151,3.1e-4 0.0207,0.0432 0.0207,0.15767 0,0.0865 -0.006,0.1573 -0.0124,0.15741 -0.007,1.3e-4 -0.10294,0.0217 -0.21358,0.0479 l -0.20116,0.0477 -0.19187,0.15191 -0.19186,0.15191 v 0.0829 c 0,0.0771 0.007,0.0914 0.10106,0.20508 0.0556,0.0672 0.1133,0.12551 0.12825,0.12958 0.015,0.004 0.0868,0.0197 0.15958,0.0348 0.0728,0.0151 0.14383,0.0306 0.1578,0.0345 0.0171,0.005 0.041,-0.0214 0.0728,-0.0798 0.0419,-0.0767 0.094,-0.12191 0.44622,-0.38683 0.31429,-0.2364 0.48998,-0.35369 0.82906,-0.55346 0.39057,-0.23011 0.47478,-0.27212 0.91292,-0.45541 l 0.48266,-0.20192 0.38614,-0.0426 c 0.57841,-0.0638 0.73795,-0.0745 1.27148,-0.0857 0.42091,-0.009 0.53607,-0.006 0.8357,0.0238 0.58293,0.057 1.17671,0.19597 1.78724,0.41841 0.38585,0.14058 0.48477,0.18624 1.46863,0.67794 l 1.05491,0.52721 h 0.28832 0.28832 l 0.0278,-0.0838 c 0.0238,-0.0717 0.025,-0.0987 0.008,-0.18731 -0.0107,-0.0569 -0.0251,-0.1126 -0.032,-0.12369 -0.01,-0.0156 -0.0644,-0.0124 -0.24279,0.0141 -0.12667,0.0188 -0.2505,0.0383 -0.27517,0.0432 l -0.0448,0.009 0.0495,-0.14597 c 0.0415,-0.12251 0.0487,-0.1672 0.0448,-0.27806 l -0.005,-0.13208 0.13692,-0.0362 c 0.0835,-0.0221 0.1887,-0.0666 0.26966,-0.11401 0.073,-0.0428 0.13605,-0.0745 0.14009,-0.0705 0.004,0.004 0.0739,0.14458 0.15514,0.3123 0.14021,0.28929 0.15805,0.31722 0.3477,0.5443 0.10994,0.13165 0.19946,0.2508 0.19892,0.26478 -5.7e-4,0.014 -0.0173,0.0691 -0.0372,0.12243 l -0.0362,0.097 -0.21514,0.0871 c -0.11832,0.0479 -0.38745,0.18328 -0.59808,0.30081 l -0.38295,0.21369 -0.392,0.40892 c -0.21559,0.22491 -0.39498,0.40892 -0.39862,0.40892 -0.004,0 -0.0222,-0.0305 -0.0412,-0.0678 l -0.0346,-0.0678 0.10312,-0.18456 c 0.0567,-0.10151 0.10904,-0.19573 0.11626,-0.20938 0.007,-0.0137 0.0324,-0.10992 0.0559,-0.21393 0.0347,-0.15348 0.0387,-0.1928 0.0214,-0.20875 -0.0117,-0.0108 -0.21764,-0.14415 -0.45762,-0.2963 -0.35408,-0.2245 -0.53834,-0.32741 -0.97755,-0.54598 l -0.54122,-0.26933 -0.72695,-0.24222 -0.72695,-0.24221 -0.30614,-0.0333 c -0.16839,-0.0183 -0.54817,-0.0463 -0.84398,-0.0622 -0.48079,-0.0258 -0.57995,-0.0264 -0.93499,-0.006 l -0.39716,0.0226 -0.38418,0.13858 c -0.24295,0.0876 -0.52433,0.20549 -0.76547,0.32061 -0.32546,0.15538 -0.43519,0.21818 -0.7494,0.42884 l -0.3681,0.24679 -0.4747,0.47732 -0.4747,0.47731 -0.0578,0.14106 c -0.0509,0.12423 -0.0604,0.17124 -0.0797,0.39399 l -0.0218,0.25292 z"
          id="path905-2-74-1" />
     </g>
-    <g
-       id="g2626"
-       transform="translate(-16.367408)">
-      <text
-         xml:space="preserve"
-         style="font-style:normal;font-weight:normal;font-size:14.1111px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-         x="108.07853"
-         y="47.152721"
-         id="text855-8"><tspan
-           sodipodi:role="line"
-           id="tspan853-1"
-           x="108.07853"
-           y="47.152721"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.1111px;font-family:'OXSMER+Tolkienesque';-inkscape-font-specification:'OXSMER+Tolkienesque';stroke-width:0.264583">Guide</tspan></text>
-      <text
-         xml:space="preserve"
-         style="font-style:normal;font-weight:normal;font-size:7.76111px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-         x="149.09369"
-         y="48.778"
-         id="text855-8-0"><tspan
-           sodipodi:role="line"
-           id="tspan853-1-08"
-           x="149.09369"
-           y="48.778"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.76111px;font-family:'OXSMER+Tolkienesque';-inkscape-font-specification:'OXSMER+Tolkienesque';stroke-width:0.264583">(Travel)</tspan></text>
-    </g>
     <rect
-       style="fill:#f2f2f2;stroke-width:1.05833327;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:8.46666616, 2.11666654000000021, 1.05833327000000010, 2.11666654000000021;stroke:none;stroke-opacity:1;stroke-dashoffset:0"
+       style="fill:#f2f2f2;stroke:none;stroke-width:1.05833;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:8.46667, 2.11667, 1.05833, 2.11667;stroke-dashoffset:0;stroke-opacity:1"
        id="rect2486"
        width="152.39999"
        height="25.4"
-       x="50.799999"
+       x="50.800007"
        y="50.799999" />
     <rect
        style="fill:#f2f2f2;stroke:none;stroke-width:1.05833;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:8.46667, 2.11667, 1.05833, 2.11667;stroke-dashoffset:0;stroke-opacity:1"
        id="rect2486-5"
        width="152.39999"
        height="25.4"
-       x="50.799999"
+       x="50.800007"
        y="101.60001" />
     <rect
        style="fill:#f2f2f2;stroke:none;stroke-width:1.05833;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:8.46667, 2.11667, 1.05833, 2.11667;stroke-dashoffset:0;stroke-opacity:1"
        id="rect2486-8"
        width="152.39999"
        height="25.4"
-       x="50.800003"
+       x="50.800007"
        y="152.40001" />
     <rect
        style="fill:#f2f2f2;stroke:none;stroke-width:1.05833;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:8.46667, 2.11667, 1.05833, 2.11667;stroke-dashoffset:0;stroke-opacity:1"
        id="rect2486-4"
        width="152.39999"
        height="25.4"
-       x="50.799999"
+       x="50.800007"
        y="203.20001" />
-    <g
-       id="g2632"
-       transform="translate(-17.774523)">
-      <text
-         xml:space="preserve"
-         style="font-style:normal;font-weight:normal;font-size:14.1111px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-         x="92.438194"
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:11.2889px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="52.172054"
+       y="100.44541"
+       id="text855-8-9"><tspan
+         sodipodi:role="line"
+         id="tspan853-1-0"
+         x="52.172054"
          y="100.44541"
-         id="text855-8-9"><tspan
-           sodipodi:role="line"
-           id="tspan853-1-0"
-           x="92.438194"
-           y="100.44541"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.1111px;font-family:'OXSMER+Tolkienesque';-inkscape-font-specification:'OXSMER+Tolkienesque';stroke-width:0.264583">Huntsmen</tspan></text>
-      <text
-         xml:space="preserve"
-         style="font-style:normal;font-weight:normal;font-size:7.76111px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-         x="162.5349"
-         y="99.039658"
-         id="text855-8-0-1"><tspan
-           sodipodi:role="line"
-           id="tspan853-1-08-0"
-           x="162.5349"
-           y="99.039658"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.76111px;font-family:'OXSMER+Tolkienesque';-inkscape-font-specification:'OXSMER+Tolkienesque';stroke-width:0.264583">(Hunting)</tspan></text>
-    </g>
-    <g
-       id="g2638"
-       transform="translate(-18.594665)">
-      <text
-         xml:space="preserve"
-         style="font-style:normal;font-weight:normal;font-size:14.1111px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-         x="105.70956"
-         y="152.39207"
-         id="text855-8-9-7"><tspan
-           sodipodi:role="line"
-           id="tspan853-1-0-6"
-           x="105.70956"
-           y="152.39207"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.1111px;font-family:'OXSMER+Tolkienesque';-inkscape-font-specification:'OXSMER+Tolkienesque';stroke-width:0.264583">Scouts</tspan></text>
-      <text
-         xml:space="preserve"
-         style="font-style:normal;font-weight:normal;font-size:7.76111px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-         x="152.22997"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.2889px;font-family:'OXSMER+Tolkienesque';-inkscape-font-specification:'OXSMER+Tolkienesque';stroke-width:0.264583">Huntsmen</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:7.76111px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="109.03962"
+       y="99.568825"
+       id="text855-8-0-1"><tspan
+         sodipodi:role="line"
+         id="tspan853-1-08-0"
+         x="109.03962"
+         y="99.568825"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.76111px;font-family:'OXSMER+Tolkienesque';-inkscape-font-specification:'OXSMER+Tolkienesque';stroke-width:0.264583">(Hunting)</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:11.2889px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="50.800003"
+       y="151.33376"
+       id="text855-8-9-7"><tspan
+         sodipodi:role="line"
+         id="tspan853-1-0-6"
+         x="50.800003"
+         y="151.33376"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.2889px;font-family:'OXSMER+Tolkienesque';-inkscape-font-specification:'OXSMER+Tolkienesque';stroke-width:0.264583">Scouts</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:7.76111px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="88.32457"
+       y="150.1125"
+       id="text855-8-0-1-0"><tspan
+         sodipodi:role="line"
+         id="tspan853-1-08-0-1"
+         x="88.32457"
          y="150.1125"
-         id="text855-8-0-1-0"><tspan
-           sodipodi:role="line"
-           id="tspan853-1-08-0-1"
-           x="152.22997"
-           y="150.1125"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.76111px;font-family:'OXSMER+Tolkienesque';-inkscape-font-specification:'OXSMER+Tolkienesque';stroke-width:0.264583">(Explore)</tspan></text>
-    </g>
-    <g
-       id="g2644"
-       transform="translate(-13.403553)">
-      <text
-         xml:space="preserve"
-         style="font-style:normal;font-weight:normal;font-size:14.1111px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-         x="68.483398"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.76111px;font-family:'OXSMER+Tolkienesque';-inkscape-font-specification:'OXSMER+Tolkienesque';stroke-width:0.264583">(Explore)</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:11.2889px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="50.334339"
+       y="202.43149"
+       id="text855-8-9-7-2"><tspan
+         sodipodi:role="line"
+         id="tspan853-1-0-6-7"
+         x="50.334339"
          y="202.43149"
-         id="text855-8-9-7-2"><tspan
-           sodipodi:role="line"
-           id="tspan853-1-0-6-7"
-           x="68.483398"
-           y="202.43149"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.1111px;font-family:'OXSMER+Tolkienesque';-inkscape-font-specification:'OXSMER+Tolkienesque';stroke-width:0.264583">Look-out Men</tspan></text>
-      <text
-         xml:space="preserve"
-         style="font-style:normal;font-weight:normal;font-size:7.76111px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-         x="169.25549"
-         y="200.90331"
-         id="text855-8-0-1-0-8-4"><tspan
-           sodipodi:role="line"
-           id="tspan853-1-08-0-1-1-9"
-           x="169.25549"
-           y="200.90331"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.76111px;font-family:'OXSMER+Tolkienesque';-inkscape-font-specification:'OXSMER+Tolkienesque';stroke-width:0.264583">(Awareness)</tspan></text>
-    </g>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.2889px;font-family:'OXSMER+Tolkienesque';-inkscape-font-specification:'OXSMER+Tolkienesque';stroke-width:0.264583">Look-out Men</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:7.76111px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="130.968"
+       y="201.32185"
+       id="text855-8-0-1-0-8-4"><tspan
+         sodipodi:role="line"
+         id="tspan853-1-08-0-1-1-9"
+         x="130.968"
+         y="201.32185"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.76111px;font-family:'OXSMER+Tolkienesque';-inkscape-font-specification:'OXSMER+Tolkienesque';stroke-width:0.264583">(Awareness)</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:11.2889px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="50.803715"
+       y="49.798557"
+       id="text855-8"><tspan
+         sodipodi:role="line"
+         id="tspan853-1"
+         x="50.803715"
+         y="49.798557"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.2889px;font-family:'OXSMER+Tolkienesque';-inkscape-font-specification:'OXSMER+Tolkienesque';stroke-width:0.264583">Guide</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:7.76111px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="84.939705"
+       y="48.778"
+       id="text855-8-0"><tspan
+         sodipodi:role="line"
+         id="tspan853-1-08"
+         x="84.939705"
+         y="48.778"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.76111px;font-family:'OXSMER+Tolkienesque';-inkscape-font-specification:'OXSMER+Tolkienesque';stroke-width:0.264583">(Travel)</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="178.80316"
+       y="49.593922"
+       id="text973"><tspan
+         sodipodi:role="line"
+         id="tspan971"
+         x="178.80316"
+         y="49.593922"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'OXSMER+Tolkienesque';-inkscape-font-specification:'OXSMER+Tolkienesque';fill:#000000;stroke-width:0.264583">1 - 3</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="177.9874"
+       y="100.43799"
+       id="text973-9"><tspan
+         sodipodi:role="line"
+         id="tspan971-4"
+         x="177.9874"
+         y="100.43799"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'OXSMER+Tolkienesque';-inkscape-font-specification:'OXSMER+Tolkienesque';fill:#000000;stroke-width:0.264583">4 - 5</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="177.67944"
+       y="151.56728"
+       id="text973-9-5"><tspan
+         sodipodi:role="line"
+         id="tspan971-4-2"
+         x="177.67944"
+         y="151.56728"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'OXSMER+Tolkienesque';-inkscape-font-specification:'OXSMER+Tolkienesque';fill:#000000;stroke-width:0.264583">6 - 7</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="177.8768"
+       y="202.21262"
+       id="text973-9-5-8"><tspan
+         sodipodi:role="line"
+         id="tspan971-4-2-7"
+         x="177.8768"
+         y="202.21262"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'OXSMER+Tolkienesque';-inkscape-font-specification:'OXSMER+Tolkienesque';fill:#000000;stroke-width:0.264583">8 - 9</tspan></text>
   </g>
 </svg>
