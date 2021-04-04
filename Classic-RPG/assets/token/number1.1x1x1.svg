@@ -12,7 +12,7 @@
    viewBox="0 0 1 1"
    version="1.1"
    id="SVGRoot"
-   sodipodi:docname="Number1.1x1x1.svg"
+   sodipodi:docname="number1.1x1x1.svg"
    inkscape:version="1.0.2 (e86c8708, 2021-01-15)">
   <defs
      id="defs2772" />
@@ -23,9 +23,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.7244765"
-     inkscape:cx="132.26952"
-     inkscape:cy="144.36648"
+     inkscape:zoom="3.223864"
+     inkscape:cx="46.247116"
+     inkscape:cy="31.674208"
      inkscape:document-units="in"
      inkscape:current-layer="layer1"
      inkscape:document-rotation="0"
@@ -43,7 +43,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -53,7 +53,7 @@
      id="layer1">
     <path
        style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.041;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 0.19272496,0.28738535 c 0,0 0.2685209,-0.038871 0.4269335,-0.2439619 0.032895,-0.1453201 0.04066,0.752216 0.04066,0.752216 0,0 0.1118159,0.081321 0.1829715,0 0.071156,-0.081321 -0.1865491,0.25294795 -0.298365,0.1106367 -0.1118159,-0.1423111 -0.3115394,0.072335 -0.3115394,0.072335 0,0 0.091486,-0.22960888 0.2570952,-0.23619578 0.028137,-0.1261282 0.019708,-0.3252737 0.0072,-0.4287224 -0.1601205,0.067805 -0.3049529,-0.026307 -0.3049529,-0.026307 z"
+       d="m 0.19864772,0.29619821 c 0,0 0.22093148,-0.0476839 0.37934408,-0.25277476 0.032895,-0.1453201 0.04066,0.752216 0.04066,0.752216 0,0 0.12294659,0.0758199 0.21785538,0.0241619 0.0975946,-0.0531199 -0.1773687,0.19000945 -0.33324888,0.0864748 -0.15075971,-0.10013368 -0.3115394,0.072335 -0.3115394,0.072335 0,0 0.0897234,-0.19435746 0.25533263,-0.20094436 0.028137,-0.1261282 0.0214706,-0.36052512 0.008963,-0.46397382 -0.1601205,0.067805 -0.25736638,-0.0174947 -0.25736681,-0.0174948 z"
        id="path877"
        sodipodi:nodetypes="cccsscccc" />
   </g>
