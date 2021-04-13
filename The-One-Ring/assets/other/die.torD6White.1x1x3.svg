@@ -12,7 +12,7 @@
    width="96"
    version="1.1"
    id="svg2015"
-   sodipodi:docname="die.d6White.1x1x3.svg"
+   sodipodi:docname="die.torD6White.1x1x3.svg"
    inkscape:version="1.0.2-2 (e86c870879, 2021-01-15)">
   <metadata
      id="metadata2021">
@@ -52,7 +52,8 @@
   <g
      aria-label="3"
      id="text2586"
-     style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.529167;stroke-miterlimit:4;stroke-dasharray:none">
+     style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.529167;stroke-miterlimit:4;stroke-dasharray:none"
+     transform="matrix(0.8,0,0,0.8,2.5260254,2.5397577)">
     <path
        d="m 8.9793041,5.0436349 1.5709609,0.1074868 2.621023,0.8350895 1.471742,0.1074868 2.414318,-0.3141921 0.206705,0.4216788 -2.935215,2.0918579 -1.364255,1.3642551 2.827729,0.5291653 2.207612,1.149282 0.83509,0.735871 0.628384,1.050063 0.107487,1.57096 -0.314192,1.364255 -0.520898,1.149282 -1.785934,1.579229 -2.306831,0.942576 -2.835997,0.520897 -4.8203682,0.107487 -1.1575498,-0.314192 0.6283842,-1.050063 0.5291656,-2.827729 1.4634737,1.678447 1.050063,0.628385 1.2567685,0.41341 h 3.042702 l 1.256769,-0.41341 0.950844,-0.735871 0.520897,-1.050063 0.107487,-1.15755 L 16.007285,14.171742 15.163927,13.328384 14.113864,12.807487 10.343559,11.54245 9.5002015,10.707361 11.286135,9.1364003 13.278775,7.8713637 9.5002015,6.7220821 7.9292411,6.8295689 7.1933701,7.7721452 6.2507938,8.0863373 5.9366017,6.9287875 7.8217543,5.4653138 Z"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.9333px;font-family:aaatord;-inkscape-font-specification:aaatord;fill:#ffffff;stroke:#000000;stroke-width:0.529167;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"

@@ -12,7 +12,7 @@
    width="96"
    version="1.1"
    id="svg2015"
-   sodipodi:docname="die.d6White.1x1x1.svg"
+   sodipodi:docname="die.torD6White.1x1x1.svg"
    inkscape:version="1.0.2-2 (e86c870879, 2021-01-15)">
   <metadata
      id="metadata2021">
@@ -43,7 +43,7 @@
      inkscape:zoom="3.4415485"
      inkscape:cx="17.323773"
      inkscape:cy="1.7418738"
-     inkscape:window-x="-13"
+     inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="0"
      inkscape:current-layer="svg2015"
@@ -51,8 +51,8 @@
   <g
      aria-label="1"
      id="text2586"
-     style="font-style:normal;font-weight:normal;font-size:16.9333px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.529167;stroke-miterlimit:4;stroke-dasharray:none"
-     transform="translate(-1.9404868,2.8750888)">
+     style="font-style:normal;font-weight:normal;font-size:16.9333px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.529167;stroke-miterlimit:4;stroke-dasharray:none;opacity:0.99700002"
+     transform="matrix(0.8,0,0,0.8,0.98761055,4.840071)">
     <path
        d="m 16.213994,2.1724916 q 0.562239,0.09095 0.677994,0.6779934 l -0.388606,10.078952 0.479556,2.521804 0.876431,1.645375 -0.289388,0.289387 -1.165818,-0.190169 -2.711974,0.289388 -0.587043,-0.190169 0.198437,-0.587043 0.578775,-0.868163 0.289388,-1.265036 L 14.370183,8.7622573 13.882358,6.3396709 13.005928,5.6616774 11.749159,5.8518463 11.360553,5.6616774 V 4.7852468 l 2.033981,-0.8681623 z"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.9333px;font-family:aaatord;-inkscape-font-specification:aaatord;fill:#ffffff;stroke:#000000;stroke-width:0.529167;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
